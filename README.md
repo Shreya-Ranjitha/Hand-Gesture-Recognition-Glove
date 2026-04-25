@@ -7,6 +7,7 @@ A low-cost embedded system project that translates human hand gestures into mean
 ## 📌 Overview
 
 The Hand Gesture Recognition Glove captures finger movements using flex sensors and converts them into digital signals. These signals are processed to identify predefined gestures such as *Hello*, *Peace*, and *Okay*, which are then transmitted to a smartphone via Bluetooth.
+![Project Setup](Setup.png)
 
 ---
 
@@ -73,7 +74,7 @@ Flex Sensors → Arduino (ADC) → 8051 Microcontroller → HC-05 Bluetooth → 
 ---
 
 ## 📊 Results
-
+![Output](Sign_Recognised.png)
 - ✅ Accuracy: ~95%
 - ⚡ Real-time communication with minimal delay
 - 🔁 Reliable and stable performance
