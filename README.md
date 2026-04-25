@@ -81,20 +81,6 @@ Flex Sensors → Arduino (ADC) → 8051 Microcontroller → HC-05 Bluetooth → 
 
 ---
 
-## 💰 Cost Analysis
-
-| Component | Cost (INR) |
-|----------|-----------|
-| 8051 Development Board | 700 |
-| HC-05 Bluetooth Module | 345 |
-| Flex Sensors | 1000 |
-| ISP Programmer | 400 |
-| Arduino UNO | 500 |
-| Misc (wires, breadboard) | 200 |
-| Glove | 100 |
-| **Total** | **3245 INR** |
-
----
 
 ## 🚀 Applications
 
