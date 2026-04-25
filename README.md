@@ -1,6 +1,6 @@
 # 🖐️ Hand Gesture Recognition Glove
 
-A low-cost embedded system project that translates human hand gestures into meaningful text messages using flex sensors, Arduino, and an 8051 microcontroller. This system enables real-time wireless communication via Bluetooth and is especially useful for assistive communication.
+A low-cost embedded system project that translates human hand gestures into meaningful text messages using flex sensors, and an 8051 microcontroller. This system enables real-time wireless communication via Bluetooth and is especially useful for assistive communication.
 
 ---
 
